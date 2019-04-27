@@ -1,17 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Ultra');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
 .row{
 	margin-top: 40px;
 }
+.columna1{
+	background-color: rgba(255,255,255,0.5);
+}
 #pa{
-	font-family: helvetica;
+	font-family: IM Fell English SC;
 }
 #img{
 	border-radius: 50%;
+	align-content: : center;
 }
 a{
 	margin:14px;
 }
 .espacio{
 	margin-left: 10px;
+	background-color: rgba(255,255,255,0.5);
 }
 body{
 	background:url("../img/Kakashi.png");
@@ -19,16 +26,35 @@ body{
 }
 .info{
 	text-align: right;
+	color: white;
 }
 #collapseTwo{
 	font-family: times new roman ;
+	color: white;
 }
 #collapseThree{
 	font-family: vendana;
+	color: white;
 }
 h2{
-	font-family: times new roman;
+	font-family: ultra;
 }
 h3{
-	font-family: times new roman;
+	font-family: Comic Sans MS, Arial, Verdana;
+}
+#headingOne{
+	padding: 29px;
+}
+#headingTwo{
+	padding: 29px;
+}
+#headingThree{
+	padding: 29px;
+}
+.los{
+	padding: 4px;
+	background-color: rgba(0,0,0,0.5);
+}
+#collapseOne{
+	color: white;
 }
